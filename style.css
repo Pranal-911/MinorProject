@@ -22,7 +22,7 @@ html{
 }
 
 html::-webkit-scrollbar{
-    width:2rem;
+    width:24px;
 }
 
 html::-webkit-scrollbar-track{
